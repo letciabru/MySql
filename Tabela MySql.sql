@@ -18,7 +18,7 @@ CREATE TABLE Projetos (
     FOREIGN KEY (funcionario_id) REFERENCES Funcionarios(id)
 );
 
-INSERT INTO Funcionarios (id, nome) VALUES (1, 'Bruna ');
+INSERT INTO Funcionarios (id, nome) VALUES (1, 'Brunna ');
 INSERT INTO Funcionarios (id, nome) VALUES (2, 'Duda');
 
 
